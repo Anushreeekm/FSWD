@@ -1,0 +1,44 @@
+body{
+    background-color: plum;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.image{
+    float:left;
+    height: 3px;;
+    width:0.8px;
+    background-color:plum;
+}
+.head{
+    padding-left: 15rem;
+    text-align: left;
+    color:blue;
+}
+.nav{
+    float:right;
+    overflow:hidden;
+    padding-right: 0.25rem;
+    font: larger;
+}
+.pic{
+    float:left;
+    height: 25%;
+    width: 30%;
+    padding-top: 20rem;
+}
+.herotext{
+    color:orangered;
+    text-align: center;
+    padding-top: 20rem;
+    font:larger;
+}
+.hero{
+    color:orangered;
+    text-align: center;
+    padding-left: 35rem;
+}
+.footer{
+    text-align: center;
+    color:brown;
+    padding-top: 25rem;
+}
